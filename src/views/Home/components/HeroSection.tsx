@@ -27,7 +27,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({
                 aboutRef={aboutRef}
             />
 
-            <div className='min-h-[90vh] flex items-center'>
+            <div className='min-h-[94vh] flex items-center'>
                 {/* Background video for larger screens */}
                 {/* <video
                     autoPlay
